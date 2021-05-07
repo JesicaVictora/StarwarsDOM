@@ -1,0 +1,19 @@
+body { 
+	font-family: 'Roboto', sans-serif;
+	text-decoration: rgb(29,29,31);
+    text-align: center; 
+    background-color: black;
+}
+
+.cabecera { 
+    width: 20%;
+}
+
+.link{
+    color: yellow;
+    size: 50px;
+    margin: 20px;
+    text-decoration: none;
+
+
+}
